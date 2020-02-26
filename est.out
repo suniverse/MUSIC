@@ -1,0 +1,11 @@
+/mnt/xfs1/home/xinyuli/pythonenv/lib/python2.7/site-packages/h5py/__init__.py:36: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from ._conv import register_converters as _register_converters
+/mnt/xfs1/home/xinyuli/pythonenv/lib/python2.7/site-packages/h5py/__init__.py:45: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from . import h5a, h5d, h5ds, h5f, h5fd, h5g, h5r, h5s, h5t, h5p, h5z
+/mnt/xfs1/home/xinyuli/pythonenv/lib/python2.7/site-packages/h5py/_hl/group.py:22: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  from .. import h5g, h5i, h5o, h5r, h5t, h5l, h5p
+(1024, 1024, 1024)
+average =  0.16455224156379888
+new average =  0.8354477611939991
+0.1
+0.00021393260993097659

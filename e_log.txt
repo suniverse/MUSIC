@@ -1,0 +1,6 @@
+10:10:27 | info    | Opening log file 'e_log.txt'.
+10:10:27 | info    | Running music!, version 1.53
+10:10:27 | info    | Log is for run started Wed Feb  1 10:10:27 2017 
+10:10:27 | info    | Code was compiled using FFTW version 3.x
+10:10:27 | info    | Code was compiled for single-threaded FFTW
+10:10:27 | info    | Code was compiled for double precision.

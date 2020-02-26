@@ -1,0 +1,32 @@
+16:48:58 | info    | Opening log file 'enzo.conf_log.txt'.
+16:48:58 | info    | Running music!, version 1.53
+16:48:58 | info    | Log is for run started Fri Oct 18 16:48:58 2019 
+16:48:58 | info    | Code was compiled using FFTW version 3.x
+16:48:58 | info    | Code was compiled for multi-threaded FFTW
+16:48:58 | info    | Running with a maximum of 40 OpenMP threads
+16:48:58 | info    | Code was compiled for double precision.
+16:48:58 | warning | Ignoring non-assignment in enzo.conf:44
+16:48:58 | warning | Ignoring non-assignment in enzo.conf:45
+16:48:58 | info    | Using k-space sampled transfer functions...
+16:48:58 | info    | Selecting transfer function plug-in  : fuzzy
+16:48:58 | info    | Selecting region generator plug-in  : box
+16:48:58 | info    | Selecting random number generator plug-in  : MUSIC
+16:48:58 | info    | Grid structure for Poisson solver:
+16:48:58 | info    |    Domain shifted by      (    0,    0,    0)
+16:48:58 | info    |    Level  10 :   offset = (    0,    0,    0)
+16:48:58 | info    |                    size = ( 1024, 1024, 1024)
+16:48:58 | info    | Grid structure for density convolution:
+16:48:58 | info    |    Domain shifted by      (    0,    0,    0)
+16:48:58 | info    |    Level  10 :   offset = (    0,    0,    0)
+16:48:58 | info    |                    size = ( 1024, 1024, 1024)
+16:48:58 | warning | Old ENZO versions may require 'align_top=true'!
+16:48:58 | info    | Computing white noise...
+16:48:58 | info    | Found 0 density constraint(s) to be obeyed.
+16:48:58 | info    | Generating random numbers (2) with seed 12345
+16:48:58 | info    | Generating random numbers w/ sample cube size of 32
+16:48:58 | info    | Generating random numbers w/ sample cube size of 32
+16:48:58 | info    | Generating a constrained random number set with seed 3425     using coarse mode replacement...
+16:48:58 | info    | Generating random numbers w/ sample cube size of 32
+16:48:59 | info    | Generating a constrained random number set with seed 34567     using coarse mode replacement...
+16:48:59 | info    | Generating random numbers w/ sample cube size of 32
+16:48:59 | info    | Generating a constrained random number set with seed 45678     using coarse mode replacement...
